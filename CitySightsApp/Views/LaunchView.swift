@@ -17,6 +17,8 @@ struct LaunchView: View {
     
          Text("asdhfjsdg     yujyu jetjtry r hfsgf")
             
+            Text("just keep going ")
+            
         }
         }
 }
