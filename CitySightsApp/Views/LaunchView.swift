@@ -15,7 +15,7 @@ struct LaunchView: View {
         Text("Heldfasdffdf a afasdflo, world!")
             .padding()
     
-         Text("asdhfjsdghfsgf")
+         Text("asdhfjsdg     yujyu jetjtry r hfsgf")
             
         }
         }
