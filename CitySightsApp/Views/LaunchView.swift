@@ -9,9 +9,16 @@ import SwiftUI
 
 struct LaunchView: View {
     var body: some View {
+       
+        VStack{
+        
         Text("Heldfasdffdf a afasdflo, world!")
             .padding()
-    }
+    
+         Text("asdhfjsdghfsgf")
+            
+        }
+        }
 }
 
 struct LaunchView_Previews: PreviewProvider {
